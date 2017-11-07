@@ -1,9 +1,4 @@
-// JavaScript Document
 
-// function coded by http://www.TheWebHelp.com 
-
-// function to use on most requests, used on location edit page, user status edit and more
-// for external domains use the other/second function
 function load_xml_doc(url_to_load, target_div, div_content_while_loading, do_on_load){
 	
 	// get the element width styling (to restore it later)
